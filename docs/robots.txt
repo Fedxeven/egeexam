@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Запретить индексацию служебных файлов
+Disallow: /static/
+Disallow: /api/
+Disallow: /*.json$
+Disallow: /*.js$
+Disallow: /*.css$
+
+# Разрешить индексацию основных страниц
+Allow: /rules
+Allow: /exam-tasks
+Allow: /nnn-training
+
+Sitemap: https://egeexam.ru/sitemap.xml

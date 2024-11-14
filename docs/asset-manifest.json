@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/egeexam/static/css/main.766cc81a.css",
+    "main.js": "/egeexam/static/js/main.aa875ae1.js",
+    "index.html": "/egeexam/index.html",
+    "main.766cc81a.css.map": "/egeexam/static/css/main.766cc81a.css.map",
+    "main.aa875ae1.js.map": "/egeexam/static/js/main.aa875ae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.766cc81a.css",
+    "static/js/main.aa875ae1.js"
+  ]
+}
